@@ -1,4 +1,6 @@
-# Oshop
+# Online Grocery Store
+
+An online grocery shopping website developed using Angular 4. Firebase authentication is used for Sign-in. A user can filter the products based on the category. He can add the products to the shopping cart. User can order the product by entering his shipping Address. Interface is provided for the Admin to add/edit/delete the products. Admin can also edit the orders placed by the customers. The products, orders and user information are stored in Firebase. The application is deployed using Firebase.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
